@@ -1,19 +1,12 @@
-# Github Profile App
+# Codepur Rockers Github API
+# In this Flutter App I have created a github like Environment to enter by some valid Github Username and access his/her repositories using Github API and also check his / her followers and following.
+# To get this Project follow the below Steps:
+# Step1:Clone this Project into your Machine using Command:
+## git clone git remote add origin https://github.com/zaid-bashir/codepur-rockers-Github-API.git
+# Step2:Open your terminal and open the projects root folder in some of the IDE's like Android Studio, VSCode, Intellij IDE.
+# Step3:Fire up the below command in your IDE's Terminal:
+## flutter pub get
+# Step4:Run Your Project using below Command:
+## flutter run
 
-This repos belongs to [Flutter Provider Series](https://www.youtube.com/watch?v=ZiwS2sTmQBA&list=PL4r_2P8lRxlg2eDizFXeiDhWYckwn5zqK) on my channel
-
-This repo has following branches (step by step code):
-
-  - episode-02-app-structure  (Turorial: https://www.youtube.com/watch?v=o6661CZKv94)
-  
-  - episode-03-design-screens (Turorial: https://www.youtube.com/watch?v=4zKyyh0zV3w)
-  
-  - episode-04-github-api-and-datamodels (Turorial: https://www.youtube.com/watch?v=hYzSxWTVwSc)
-  
-  - episode-05-connect-provider (Turorial: https://www.youtube.com/watch?v=_fu2UcAvH2A&)
-  
-  - episode-06-error-handling (Turorial: https://www.youtube.com/watch?v=KXZB4u2vAOw)
-  
-  - episode-07-show-user-repos (Turorial: https://www.youtube.com/watch?v=2piJGyHCzOc)
-  
-  - episode-08-show-web-view (Turorial: https://www.youtube.com/watch?v=VHvue2K8a4I)
+# Congrats You are Good to go to do some own Changes
